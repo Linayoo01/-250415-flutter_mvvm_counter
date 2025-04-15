@@ -74,7 +74,7 @@ MVVM 구조를 배우며 느낀 점, 시행착오, 구조적 이점 등을 정�
 앱 아키텍처를 처음 접하는 분들께 추천드려요.
 
 🔗 블로그 포스팅
-[👉 Flutter에서 MVVM 아키텍처를 제대로 이해해보기 💡]
+[👉 Flutter에서 MVVM 아키텍처를 제대로 이해해보기 💡](https://grmeems.tistory.com/entry/Flutter-%EC%88%99%EB%A0%A8-TIL-MVVM-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-StatefulWidget-%EC%BD%94%EB%93%9C-%EC%9D%B4%ED%95%B4)
 
 
  ---
