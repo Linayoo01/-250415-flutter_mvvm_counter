@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart_json_practice",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2025-04-15T12:15:11.862356Z",
+  "generator": "pub",
+  "generatorVersion": "3.7.2",
+  "flutterRoot": "file:///C:/sdk/flutter",
+  "flutterVersion": "3.29.2",
+  "pubCache": "file:///C:/Users/PC_1M/AppData/Local/Pub/Cache"
+}

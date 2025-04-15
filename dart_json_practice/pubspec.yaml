@@ -1,0 +1,9 @@
+name: dart_json_practice
+description: A simple project to practice JSON handling in Dart.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  # No additional dependencies needed for basic JSON handling 
